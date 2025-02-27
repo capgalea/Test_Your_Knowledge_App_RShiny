@@ -1,0 +1,11 @@
+## Title: Test Your Knowledge
+#### Author: Charles Galea
+#### Date: 5 July 2019
+
+
+### Background
+
+This question and answer application was developed to manually determine the accuracy of machine learning (or neural network) alogrithm designed to choose the best answer to a questions when presented with a number of possible answers.
+
+The user clicks a button which then generates a random question and corresponding possible answers from a predefined dataset (obtained from Zendesk). The user then clicks on what they beleive is the best answer and the application prints out whether their pick corresponds to that chosen previously by the machine learning (or neural network) alogrithm.
+
