@@ -8,7 +8,7 @@
 # Load R packages
 library(shiny)
 library(shinydashboard)
-library(markdown)
+library(rmarkdown)
 library(dplyr)
 library(shinyBS)
 library(data.table)
