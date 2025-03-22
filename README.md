@@ -7,7 +7,6 @@ Welcome to the **Test Your Knowledge App**! This RShiny app allows users to crea
 - 📝 **Create and manage questions and answers**
 - 📊 **Analyze user performance**
 - 🌐 **Responsive UI for a seamless experience**
-- 📈 **Real-time data visualization**
 
 ## Installation 🚀
 
