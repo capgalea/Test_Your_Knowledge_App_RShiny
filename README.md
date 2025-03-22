@@ -21,7 +21,7 @@ Follow these steps to set up the app on your local machine:
 
 2. **Install required packages:**
     ```R
-    install.packages(c("shiny", "dplyr", "ggplot2"))
+    install.packages(c("shiny", "shinydashboard", "markdown", "dplyr", "shinyBS", "data.table", "tidyr", "DT", "rhandsontable", "tibble"))
     ```
 
 3. **Run the application:**
